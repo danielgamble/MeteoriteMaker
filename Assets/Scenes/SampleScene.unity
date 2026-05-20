@@ -241,6 +241,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21eb8ee8566cdd64f853cf7d43122eda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SpriteChanger
+  spriteRenderer: {fileID: 0}
+  spriteColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!212 &594758836
 SpriteRenderer:
   serializedVersion: 2
